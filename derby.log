@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Aug 10 09:42:07 BRT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-017b-3015-9b30-00000796bc40 
+on database directory C:\Users\User\Desktop\Java\prova_sub_JUnit_Hibernate\test  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@368239c8 
+Loaded from file:/C:/Users/User/.m2/repository/org/apache/derby/derby/10.8.2.2/derby-10.8.2.2.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.11+9
+user.dir=C:\Users\User\Desktop\Java\prova_sub_JUnit_Hibernate
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
